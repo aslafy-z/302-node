@@ -1,24 +1,20 @@
 {
-  "name": "301",
-  "version": "1.1.1",
+  "name": "serve-redirect",
+  "version": "1.0.0",
   "description": "A super simple HTTP redirect server",
   "bin": {
-    "301": "bin/cli.js"
-  },
-  "preferGloabl": true,
-  "scripts": {
-    "test": "echo 'YOLO' && exit 0"
+    "302": "bin/cli.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markhuge/301-node.git"
+    "url": "https://github.com/aslafy-z/serve-redirect-node.git"
   },
   "author": "Mark Wilkerson <mark@markwilkerson.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/markhuge/301-node/issues"
+    "url": "https://github.com/aslafy-z/serve-redirect-node/issues"
   },
-  "homepage": "https://github.com/markhuge/301-node",
+  "homepage": "https://github.com/aslafy-z/serve-redirect-node",
   "dependencies": {
     "minimist": "1.1.0"
   }
