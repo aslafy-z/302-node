@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/aslafy-z/serve-redirect-node",
   "dependencies": {
-    "minimist": "1.1.0"
+    "minimist": "1.2.3"
   }
 }
